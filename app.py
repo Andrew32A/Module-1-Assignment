@@ -1,4 +1,3 @@
-from curses.ascii import isalpha, isdigit
 from flask import Flask
 import random
 
